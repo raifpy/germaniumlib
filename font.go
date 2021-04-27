@@ -1,7 +1,6 @@
-package main
+package germaniumlib
 
 import (
-	_ "embed"
 	"fmt"
 	"os"
 	"path/filepath"
